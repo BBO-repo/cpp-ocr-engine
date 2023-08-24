@@ -90,5 +90,5 @@ You should see in the terminal all detected texts with the text box's coordinate
 ### Build the tuatara ocr engine
 Run the `tuatara` container and mount your `/my/working/directory/tuatara` folder as a volume to your container
 
-### Build visual studio code
+### Build the container and the code with visual studio code
 To build and run through visual studio code, make sure the remote development extension is installed. The repository provides a .devcontainer.json which should allow you to directly reopen the `/my/working/directory/tuatara` in a container
