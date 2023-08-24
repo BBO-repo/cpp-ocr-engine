@@ -16,7 +16,7 @@ Easy to understand and hackable - All the main code is in tuatara.cpp and is cur
 ### Get the code source 
 Clone the code in any working directory
 ```
-git clone ... /my/working/directory/tuatara
+git clone https://github.com/BBO-repo/cpp-ocr-engine.git /my/working/directory/tuatara
 ```
 ### Build the docker container
 Build a docker image named for example `ocr_engine` from the `Dockerfile` inside the `/my/working/directory/tuatara` directory.<br>
